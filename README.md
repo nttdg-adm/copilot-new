@@ -26,13 +26,13 @@ We have relatable topics as below:
 
 1. [Spring Boot Security in Spring Boot](https://github.com/nttdg-adm/copilot-new/blob/dev/spring_security_spring_boot.md)
 2. [CRUD Operation in Spring Boot](https://github.com/nttdg-adm/copilot-new/blob/dev/crud_operation_spring_boot.md)
-3. [RESTful API creation in Spring Boot](https://github.com/nttdg-adm/copilot-new/blob/dev/restful_api_Spring_boot.md)
+3. [RESTful API creation in Spring Boot](https://github.com/nttdg-adm/copilot-new/blob/dev/restful_api_spring_boot.md)
 4. [Pagination and Sorting in Spring Boot](https://github.com/nttdg-adm/copilot-new/blob/dev/pagination_sorting_spring_boot.md)
 5. [Spring boot logging](https://github.com/nttdg-adm/copilot-new/blob/dev/logging_spring_boot.md)
 6. [Junit testing in Spring Boot](https://github.com/nttdg-adm/copilot-new/blob/dev/junit_testing_spring_boot.md)
-7. [Spring Boot Actuator](https://github.com/nttdg-adm/copilot-new/blob/dev/actuator_spring-boot.md)
+7. [Spring Boot Actuator](https://github.com/nttdg-adm/copilot-new/blob/dev/actuator_spring_boot.md)
 8. [DataBases & DataJPA in Spring Boot](https://github.com/nttdg-adm/copilot-new/blob/dev/databases_datajpa_spring_boot.md)
-9. [Microservices in Spring Boot](https://github.com/nttdg-adm/copilot-new/blob/dev/micoservices_spring_boot.md)
+9. [Microservices in Spring Boot](https://github.com/nttdg-adm/copilot-new/blob/dev/microservices_spring_boot.md)
 
 
 > This documentation is not yet in its final version, and there may be broken links, typos, and other errors.
