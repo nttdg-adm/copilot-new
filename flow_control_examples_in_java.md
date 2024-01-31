@@ -85,3 +85,72 @@ Also, if you want to use string variables in if-else statement, give instruction
         }
     }
     ```
+- **Exercise 3**
+    ##### Input Code
+    ```java
+    public class FlowControlExample {
+
+        public static void main(String[] args) {
+           //Give examples of Control Flow Statements in java
+        }
+    }
+    ```
+
+    ##### Result Suggested by Copilot
+
+    ```java
+    public class FlowControlExample {
+
+        public static void main(String[] args) {
+        //Give examples of Control Flow Statements in java
+        //If-Else
+        int a = 10;
+        int b = 20;
+        if(a > b){
+            System.out.println("a is greater than b");
+        }else{ 
+            System.out.println("b is greater than a");
+        }
+        //Switch
+        int c = 10;
+        switch(c){
+            case 10:
+                System.out.println("Hello World");
+                break;
+            default:
+                System.out.println("Hello World");
+        }
+        //For
+        for(int d = 0; d < 10; d++){
+            System.out.println("Hello World");
+        }
+        //While
+        int i = 0;
+        while(i < 10){
+            System.out.println("Hello World");
+            i++;
+        }
+        //Do-While
+        int j = 0;
+        do{
+            System.out.println("Hello World");
+            j++;
+        }while(j < 10);
+        //Break
+        for(int k = 0; k < 10; k++){
+            if(k == 5){
+                break;
+            }
+            System.out.println("Hello World");
+        }
+        //Continue
+        for(int l = 0; l < 10; l++){
+            if(l == 5){
+                continue;
+            }
+            System.out.println("Hello World");
+        }
+        }
+
+    }
+    ```
