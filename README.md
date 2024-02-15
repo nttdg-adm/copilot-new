@@ -11,14 +11,15 @@ We have relatable topics as below:
 ## Table of Content
 
 1. [Types of Variables in Java](https://github.com/nttdg-adm/copilot-new/blob/dev/variables_in_java.md)
-2. [Flow Control in Java](https://github.com/nttdg-adm/copilot-new/blob/dev/flow_control_example_in_java.md)
+2. [Flow Control in Java](https://github.com/nttdg-adm/copilot-new/blob/dev/flow_control_examples_in_java.md)
 3. [Data types declaration in Java](https://github.com/nttdg-adm/copilot-new/blob/dev/data_type_declaration_in_java.md)
 4. [Create classes in Java](https://github.com/nttdg-adm/copilot-new/blob/dev/class_in_java.md)
 5. [ArrayList & LinkList in Java](https://github.com/nttdg-adm/copilot-new/blob/dev/arraylist_linklist_in_java.md)
-6. [HashSet, HashMap and TreeSet in Java](https://github.com/nttdg-adm/copilot-new/blob/dev/hashset_hashmap_treeset_in_java.md)
-7. [Multithreading in Java](https://github.com/nttdg-adm/copilot-new/blob/dev/multi_threading_in_java.md)
-8. [Types of Thread pools in Java](https://github.com/nttdg-adm/copilot-new/blob/dev/types_of_threadpools_in_java.md)
-9. [Functional Programming in Java](https://github.com/nttdg-adm/copilot-new/blob/dev/functional_programming_in_java.md)
+6. [HashSet, HashMap and TreeSet in Java](https://github.com/nttdg-adm/copilot-new/blob/dev/hashset_treeset_in_java.md)
+7. [HashMap in Java](https://github.com/nttdg-adm/copilot-new/blob/dev/hashMap_in_java.md)
+8. [Multithreading in Java](https://github.com/nttdg-adm/copilot-new/blob/dev/multi_threading_in_java.md)
+9. [Types of Thread pools in Java](https://github.com/nttdg-adm/copilot-new/blob/dev/types_of_threadpools_in_java.md)
+10. [Functional Programming in Java](https://github.com/nttdg-adm/copilot-new/blob/dev/functional_programming_in_java.md)
 
 # Spring Boot Concepts
 
