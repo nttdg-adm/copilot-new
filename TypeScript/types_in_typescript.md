@@ -25,7 +25,6 @@ GitHub Copilot can be used to declare many types in typeScript.
 GitHub Copilot chat gets open by clicking *Ctrl + I*. GitHub Copilot can give suggestions for it . If we ask GitHub Copilot as `//Give example of built in data types in TypeScript` , it will suggest us declaration of it and gives example of each
 
 ### Example
-This example shows different types declaration in typeScript.
 
 ##### Input Code
 ```TypeScript

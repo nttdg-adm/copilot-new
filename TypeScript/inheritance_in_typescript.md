@@ -14,7 +14,6 @@ Inheritance in TypeScript is when a class can reuse the properties and methods o
 JavaScript uses prototypal inheritance, not classical inheritance like Java or C#. ES6 introduces the class syntax that is simply the syntactic sugar of the prototypal inheritance. TypeScript supports inheritance like ES6.
 To inherit a class, you use the extends keyword. Using GitHub Copilot, we can learn Inheritance concept with example. When we ask GitHub Copilot by writing comment as `What is Inheritance in TypeScript?`, it will give you description as well as example to understand the concept.
 ### Example
-This example shows different types declaration in typeScript.
 
 ##### Input Code
 ```TypeScript

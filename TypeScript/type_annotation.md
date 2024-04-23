@@ -16,7 +16,6 @@ Once an identifier is annotated with a type, it can be used as that type only. I
 GitHub Copilot can help us to get to know type annotation usage in typeScript.
 If we ask GitHub Copilot as `How to use type annotation in typeScript?`, it will give example of usage of it.
 ### Example
-This example shows different types declaration in typeScript.
 
 ##### Input Code
 ```TypeScript
